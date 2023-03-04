@@ -1,4 +1,4 @@
-# Microbit_Lesson_13
+# Microbit_Encoded_Radio
 Lesson 13 of my Intro to Python course with Microbit
 
 Program Overview: This program is an encoded radio messenger. It sends encrypted strings with the inbuilt radio on the microbit and also receives encrypted strings and decrypts them. It then displays the message on the screen. 
